@@ -24,6 +24,4 @@
 
 
 ##最终效果
-<img src="https://raw.githubusercontent.com/Alen-gao/Music/dev/images/微信图片_20170607150232.png">
-<img src="https://raw.githubusercontent.com/Alen-gao/Music/dev/images/微信图片_20170607150232.png">
-<img src="https://raw.githubusercontent.com/Alen-gao/Music/dev/images/微信图片_20170607150237.png">
+<img src="https://raw.githubusercontent.com/Alen-gao/Music/dev/images/WXnodegeek.jpg">
