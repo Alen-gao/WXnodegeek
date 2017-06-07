@@ -24,6 +24,6 @@
 
 
 ##最终效果
-<img src="/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150506.png?raw=true">
-<img src="/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150232.png?raw=true">
-<img src="/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150237.png?raw=true">
+<img src="https://raw.githubusercontent.com/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150506.png?raw=true">
+<img src="https://raw.githubusercontent.com/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150232.png?raw=true">
+<img src="https://raw.githubusercontent.com/Alen-gao/Music/blob/dev/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607150237.png?raw=true">
